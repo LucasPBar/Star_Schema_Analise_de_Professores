@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/Bootcamp-Klabin%20|%20DIO-orange?style=flat-square" />
 </p>
 
+![Image](https://github.com/user-attachments/assets/658058b7-c5b4-42b9-aec7-078d6d2d6c23)
+
 ---
 
 ## 🧠 Contexto do Projeto  
